@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="13"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="race.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <Loaded Value="True"/>
+        <UsageCount Value="20"/>
+        <CursorPos X="42" Y="21"/>
+      </Unit>
+      <Unit>
+        <Filename Value="microracers.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="MicroRacers"/>
+        <Loaded Value="True"/>
+        <UsageCount Value="20"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="10"/>
+        <CursorPos X="78" Y="27"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="1">
+      <Position>
+        <Filename Value="race.lpr"/>
+        <Caret Line="21" Column="42"/>
+      </Position>
+      <Position>
+        <Filename Value="microracers.pas"/>
+        <Caret Line="147" Column="73" TopLine="129"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
